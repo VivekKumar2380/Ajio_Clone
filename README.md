@@ -23,60 +23,60 @@ A Collaborative project built by a team of 5 executed in 5 days.
 * Landing page (Home page) 
 
 
-<img src="./outfitr/src/images/Screenshot (35).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(35).png"/>
 
 * Sign-In page
  
 
-<img src="./outfitr/src/images/Screenshot (44).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(44).png"/>
 
 * Landing page (Mens page) 
 
-<img src="./outfitr/src/images/Screenshot (37).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(37).png"/>
 
 
 * Landing page (Womens page) 
 
 
-<img src="./outfitr/src/images/Screenshot (38).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(38).png"/>
 
 
 * Product page
 
 
 
-<img src="./outfitr/src/images/Screenshot (39).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(39).png"/>
 
 
 * Single Product page
 
 
 
-<img src="./outfitr/src/images/Screenshot (40).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(40).png"/>
 
 
 * Cart page
 
  
 
-<img src="./outfitr/src/images/Screenshot (41).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(41).png"/>
 
 * Payment page
 
 
 
-<img src="./outfitr/src/images/Screenshot (42).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(42).png"/>
 
 * Admin Signin page
 
 
-<img src="./outfitr/src/images/Screenshot (45).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(45).png"/>
 
 
 *Admin page
 
 
-<img src="./outfitr/src/images/Screenshot (46).png"/>
+<img src="https://github.com/VivekTomar03/shrill-yam-9521/raw/main/outfitr/src/images/Screenshot%20(46).png"/>
 
 
 
